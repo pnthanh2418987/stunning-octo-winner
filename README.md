@@ -1,4 +1,5 @@
-# GitHub
+Hello!
+
 This program use the matplotlib import
 
 With the knowledges that CiP provide about basic python I was able to futher expand my coding skills and in this particular project, I was able to learn a bit of using matplotlib to visually demonstrate data by using graphs.
